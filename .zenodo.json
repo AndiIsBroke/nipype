@@ -179,6 +179,11 @@
       "name": "Erickson, Drew"
     },
     {
+      "affiliation": "Neuroscience Program, University of Iowa",
+      "name": "Kent, James D.",
+      "orcid": "0000-0002-4892-2659"
+    },
+    {
       "affiliation": "Otto-von-Guericke-University Magdeburg, Germany",
       "name": "Hanke, Michael",
       "orcid": "0000-0001-6398-6370"
@@ -189,11 +194,6 @@
     },
     {
       "name": "Moloney, Brendan"
-    },
-    {
-      "affiliation": "Neuroscience Program, University of Iowa",
-      "name": "Kent, James D.",
-      "orcid": "0000-0002-4892-2659"
     },
     {
       "affiliation": "SRI International",
@@ -297,6 +297,11 @@
       "orcid": "0000-0001-9791-4404"
     },
     {
+      "affiliation": "Department of Psychology, University of Bielefeld, Bielefeld, Germany.",
+      "name": "Doll, Anna",
+      "orcid": "0000-0002-0799-0831"
+    },
+    {
       "name": "Buchanan, Colin"
     },
     {
@@ -388,11 +393,6 @@
       "orcid": "0000-0003-2766-8425"
     },
     {
-      "affiliation": "Department of Psychology, University of Bielefeld, Bielefeld, Germany.",
-      "name": "Doll, Anna",
-      "orcid": "0000-0002-0799-0831"
-    },
-    {
       "affiliation": "University of Iowa",
       "name": "Welch, David"
     },
@@ -400,6 +400,11 @@
       "affiliation": "Department of Psychology, Stanford University",
       "name": "Triplett, William",
       "orcid": "0000-0002-9546-1306"
+    },
+    {
+      "affiliation": "The University of Iowa",
+      "name": "Ghayoor, Ali",
+      "orcid": "0000-0002-8858-1254"
     },
     {
       "affiliation": "Child Mind Institute",
@@ -446,11 +451,6 @@
     },
     {
       "name": "Weinstein, Alejandro"
-    },
-    {
-      "affiliation": "The University of Iowa",
-      "name": "Ghayoor, Ali",
-      "orcid": "0000-0002-8858-1254"
     },
     {
       "affiliation": "University of Pennsylvania",
