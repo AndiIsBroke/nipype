@@ -1,3 +1,20 @@
+1.5.0 (February 24, 2020)
+=========================
+
+New feature release in the 1.5.x series.
+
+In this release, the example scripts have been split out into their own package:
+`niflow-nipype1-examples <https://github.com/niflows/nipype1-examples>`__.
+
+(`Full changelog <https://github.com/nipy/nipype/milestone/1.5.0?closed=1>`__)
+
+  * FIX: FSL model.py make multiple F-tests (https://github.com/nipy/nipype/pull/3166)
+  * ENH: Remove examples from repository (https://github.com/nipy/nipype/pull/3172)
+  * REF: Removed all uses of numpy_mmap (https://github.com/nipy/nipype/pull/3121)
+  * MNT: Update Zenodo ordering based on commit count (https://github.com/nipy/nipype/pull/3169)
+  * DOC: Updated .zenodo.json file (https://github.com/nipy/nipype/pull/3167)
+  * DOC: Update .zenodo.json (https://github.com/nipy/nipype/pull/3165)
+
 1.4.2 (February 14, 2020)
 =========================
 (`Full changelog <https://github.com/nipy/nipype/milestone/1.4.2?closed=1>`__)
